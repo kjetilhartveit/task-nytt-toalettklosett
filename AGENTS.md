@@ -27,9 +27,48 @@ Vi har tilgang på noen tilbud og kanskje andre faktorer som kan påvirke valget
 
 ### Plan trinn
 
-- [ ] Brainstorm rundt hva vi må gjøre for å bytte til et nytt toalettklosett. Gjerne oppdater eller berik trinnene i planen.
-- [ ] Finn et toalettklosett
+- [x] Brainstorm rundt hva vi må gjøre for å bytte til et nytt toalettklosett. Gjerne oppdater eller berik trinnene i planen.
+- [ ] Avklar tekniske detaljer om eksisterende oppsett (se spørsmål i QA.md)
+- [ ] Finn et toalettklosett som passer kravene
 - [ ] Finn rørlegger som kan installere toalettklosettet
+
+### Brainstorm-notater
+
+#### Forberedelser før kjøp
+1. **Mål opp nøyaktig:**
+   - Avstand fra vegg til senter av avløpsrøret
+   - Høyde på vanntilkobling
+   - Bekreft tilgjengelig plass (54cm bredde, 65cm dybde)
+
+2. **Sjekk avløpstype:**
+   - P-lås (veggavløp) - trolig basert på beskrivelsen
+   - Senteravstand (CC-mål) fra vegg til avløp er kritisk
+
+3. **Vanntilkobling:**
+   - Sjekk om stengeventil finnes og fungerer
+
+#### Ved kjøp av toalett
+4. **Krav som må oppfylles:**
+   - Dobbel spylefunksjon (3/6 liter eller 2/4 liter)
+   - Maks 54cm bredde, 65cm dybde
+   - Passer med eksisterende avløpstype (P-lås)
+   - God kvalitet fra kjent produsent (Gustavsberg, Ifö, Geberit)
+
+5. **Økonomiske hensyn:**
+   - Bruk OBOS-rabatten på 15% hos VVS Norge/Bademiljø/Comfort
+   - Typisk budsjett for toalett: ca 2000-5000 kr
+   - Typisk budsjett for installasjon: ca 2000-4000 kr
+
+#### Ved installasjon
+6. **Hva rørlegger gjør:**
+   - Stenger vann og demonterer gammelt toalett
+   - Sjekker og evt. skifter avløpsmansjett
+   - Monterer nytt toalett med nye bolter og pakning
+   - Kobler til vann og tester
+
+7. **Fjerning av gammelt toalett:**
+   - Rørlegger kan ofte ta det med
+   - Alternativt: gjenbruksstasjon
 
 ### Utførelse av planen
 
