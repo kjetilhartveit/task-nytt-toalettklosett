@@ -28,3 +28,25 @@ Er det en kran/ventil på vannrøret til toalettet som du kan skru igjen for å 
 ### Svar
 
 Det ser ut som at det er en ventil på vannrøret til toalettet som du kan skru igjen for å stenge vannet. Se bilder nevnt i [AGENTS.md](AGENTS.md). Se bilde [klosett3.JPEG](bilder/klosett3.JPEG).
+
+---
+
+## Neste steg: Kontakt rørlegger
+
+### Forslag til hva du kan si når du ringer Comfort Bryn (22 76 15 70):
+
+> Hei, jeg er OBOS-medlem og ønsker å bytte ut toalettet mitt.
+>
+> Jeg har et eldre gulvstående toalett med S-lås (gulvavløp) som jeg vil bytte til et Gustavsberg Nautic 5500. Jeg har også kjøpt inn et Gustavsberg Nautic hardt sete med softclose.
+>
+> Kan dere hjelpe med:
+> 1. Installasjon av det nye toalettet
+> 2. Fjerning av det gamle toalettet
+>
+> Hva blir prisen på dette, og når har dere ledig tid?
+
+### Tips:
+
+- Husk å nevne at du er OBOS-medlem for å få 15% rabatt
+- Spør om de kan ta med seg det gamle toalettet
+- Du har allerede bestemt deg for å kjøpe toalettet fra Megaflis, så du trenger kun installasjonstjeneste

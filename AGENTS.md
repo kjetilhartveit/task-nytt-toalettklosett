@@ -138,29 +138,44 @@ Alle toalettene nedenfor har **S-lås (gulvavløp)**, **dobbel spyl**, og passer
 
 ### Agentens valg av rørlegger
 
-#### Comfort Lambertseter AS (finnes ikke lenger)
+#### Comfort Bryn AS (ANBEFALT)
 
-Merk at Comfort Lambertseter er lagt ned, og vi må finne en annen rørlegger.
-Nettsiden deres https://www.comfort.no/rorlegger/oslo/comfort-lambertseter gir 404 not found.
+Comfort Bryn AS er det nærmeste Comfort-alternativet til Lambertseter etter at Comfort Lambertseter ble lagt ned.
 
 **Hvorfor dette er det beste valget:**
 
-- Lokalt i Lambertseter-området
-- Del av Comfort-kjeden (OBOS 15% rabatt)
-- Erfaren bedrift siden 1979 (tidligere Holstad & Westerheim AS)
-- Kan både levere toalettet og installere det
+- Nærmest Lambertseter av Comfort-butikkene i Oslo (Bryn ligger ca. 3 km unna)
+- Del av Comfort-kjeden (OBOS 15% rabatt gjelder)
+- Erfaren bedrift - videreføring av Roger Hagen AS som ble stiftet i 1971
+- Allsidig erfaring innen varme, sanitær og utbedring av bad
+- Har showroom med baderomsløsninger
 
 **Kontaktinformasjon:**
 
-- **Adresse**: Raschs vei 40, 1153 Oslo
-- **Telefon**: 23 16 89 50
-- **Nettside**: [comfort.no](https://www.comfort.no/rorlegger/oslo/comfort-lambertseter/)
+- **Adresse**: Østensjøveien 60, 0667 Oslo
+- **Telefon**: 22 76 15 70
+- **Nettside**: [comfort.no/rorlegger/oslo/comfort-bryn](https://www.comfort.no/rorlegger/oslo/comfort-bryn/)
+
+**Åpningstider:**
+
+- Mandag-onsdag: 09:00-17:00
+- Torsdag: 09:00-18:00
+- Fredag: 09:00-16:00
+- Lørdag: 10:00-15:00
 
 **Estimert totalkostnad med OBOS-rabatt:**
 
-- Toalett (Nautic 1500 + sete): ca. kr 4.000
+- Toalett (Nautic 5500): ca. kr 2.199
+- Toalettsete (Nautic Softclose): ca. kr 500
 - Installasjon: ca. kr 2.500-3.500
-- **Med 15% OBOS-rabatt**: ca. kr 5.500-6.400 totalt
+- **Med 15% OBOS-rabatt på arbeid**: ca. kr 4.500-5.300 totalt
+
+#### Andre alternativer i Oslo
+
+Hvis Comfort Bryn ikke passer:
+
+- **Comfort Storo AS** - Grefsenveien 56, 0487 Oslo - Tlf: 23 40 10 40
+- **Nordstrand Rør AS** - Lokal rørlegger i Nordstrand-området (ikke OBOS-rabatt)
 
 ## Plan
 
