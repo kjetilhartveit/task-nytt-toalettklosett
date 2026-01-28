@@ -43,8 +43,8 @@ Vi har tilgang på noen tilbud og kanskje andre faktorer som kan påvirke valget
 
 2. **Sjekk avløpstype:**
 
-   - P-lås (veggavløp) - trolig basert på beskrivelsen
-   - Senteravstand (CC-mål) fra vegg til avløp er kritisk
+   - ✅ **BEKREFTET: S-lås (gulvavløp)** - avløpet går ned i gulvet
+   - Senteravstand fra vegg til avløp bør måles ved installasjon
 
 3. **Vanntilkobling:**
    - Sjekk om stengeventil finnes og fungerer
@@ -55,8 +55,8 @@ Vi har tilgang på noen tilbud og kanskje andre faktorer som kan påvirke valget
 
    - Dobbel spylefunksjon (3/6 liter eller 2/4 liter)
    - Maks 54cm bredde, 65cm dybde
-   - Passer med eksisterende avløpstype (P-lås)
-   - God kvalitet fra kjent produsent (Gustavsberg, Ifö, Geberit)
+   - ✅ Passer med eksisterende avløpstype (**S-lås / gulvavløp**)
+   - God kvalitet fra kjent produsent (Gustavsberg, Ifö, Porsgrund)
 
 5. **Økonomiske hensyn:**
    - Bruk OBOS-rabatten på 15% hos VVS Norge/Bademiljø/Comfort
@@ -76,17 +76,115 @@ Vi har tilgang på noen tilbud og kanskje andre faktorer som kan påvirke valget
    - Rørlegger kan ofte ta det med
    - Alternativt: gjenbruksstasjon
 
+---
+
+## Bekreftet teknisk informasjon
+
+Basert på bildene (klosett4.JPEG og klosett5.JPEG) er følgende bekreftet:
+
+| Egenskap | Status |
+|----------|--------|
+| Avløpstype | **S-lås (gulvavløp)** - avløpet går ned i gulvet |
+| Vanntilkobling | Stengeventil i veggen med fleksibel metallslange |
+| Toaletttype | Gulvstående med synlig cisterne, enkelt spyl |
+| Tilgjengelig plass | Maks 54cm bredde, 65cm dybde |
+
+---
+
+## Anbefalte toaletter
+
+Alle toalettene nedenfor har **S-lås (gulvavløp)**, **dobbel spyl**, og passer innenfor dimensjonskravene.
+
+### 1. Gustavsberg Nautic 5500 (BUDSJETTVALG)
+- **Pris**: ca. kr 2.199 (Megaflis)
+- **Dimensjoner**: Passer innenfor kravene
+- **Spyling**: 3/6 liter dobbel spyl
+- **Montering**: For liming
+- **Merk**: Sete må kjøpes separat (ca. kr 300-500)
+- **Lenke**: [Megaflis](https://www.megaflis.no/bad/toaletter-og-tilbehor/gulvstaende-toalett/gustavsberg-nautic-5500-toalett-mskjult-s-las-36l-for-liming)
+
+### 2. Gustavsberg Nautic 1500 med Hygienic Flush (ANBEFALT)
+- **Pris**: ca. kr 3.290 - 3.919 (tilbudspris)
+- **Dimensjoner**: Passer innenfor kravene
+- **Spyling**: 2/4 eller 3/6 liter dobbel spyl
+- **Montering**: For liming
+- **Fordel**: Hygienic Flush gir bedre skylling og hygiene
+- **Merk**: Sete må kjøpes separat
+- **Lenke**: [VVS Komplett](https://vvskomplett.no/gustavsberg-gulvtoalett-nautic-1500-skjult-s-las), [Bademiljø](https://www.bademiljo.no/produkter/baderom/toalett/gulvmontert-toalett/gustavsberg-nautic-1500-6022943/)
+
+### 3. Porsgrund Glow 60 Rimfree (PREMIUMVALG)
+- **Pris**: ca. kr 4.000-5.000
+- **Dimensjoner**: B: 35,5cm, D: 63,5cm, H: 86cm - **passer perfekt!**
+- **Spyling**: 4/2 liter dobbel spyl
+- **Montering**: For liming
+- **Fordel**: Rimfree (ingen spylekant), Porsgrund Smart glasur
+- **Merk**: Sete må kjøpes separat
+- **Lenke**: [Oslo VVS Senter](https://www.oslovvssenter.no/products/porsgrund-glow-60-gulvtoalett-rimfree-skjult-s-las), [VVSkupp](https://www.vvskupp.no/porsgrund/6002806/porsgrund-glow-60-gulvst%C3%A5ende-toalett-635x355-mm-skjult-s-l%C3%A5s-rimfree)
+
+### Min anbefaling
+
+**Gustavsberg Nautic 1500** er det beste valget for pris/kvalitet-forholdet:
+- God pris (ca. kr 3.300-4.000 med sete)
+- Hygienic Flush for bedre hygiene
+- Kjent merkevare med god tilgjengelighet på reservedeler
+- Kan kjøpes hos Comfort/Bademiljø med OBOS-rabatt
+
+---
+
+## Anbefalt rørlegger
+
+### Comfort Lambertseter AS
+
+**Hvorfor dette er det beste valget:**
+- Lokalt i Lambertseter-området
+- Del av Comfort-kjeden (OBOS 15% rabatt)
+- Erfaren bedrift siden 1979 (tidligere Holstad & Westerheim AS)
+- Kan både levere toalettet og installere det
+
+**Kontaktinformasjon:**
+- **Adresse**: Raschs vei 40, 1153 Oslo
+- **Telefon**: 23 16 89 50
+- **Nettside**: [comfort.no](https://www.comfort.no/rorlegger/oslo/comfort-lambertseter/)
+
+**Estimert totalkostnad med OBOS-rabatt:**
+- Toalett (Nautic 1500 + sete): ca. kr 4.000
+- Installasjon: ca. kr 2.500-3.500
+- **Med 15% OBOS-rabatt**: ca. kr 5.500-6.400 totalt
+
+---
+
 ## Plan
 
 ### Plan trinn
 
 - [x] Brainstorm rundt hva vi må gjøre for å bytte til et nytt toalettklosett. Gjerne oppdater eller berik trinnene i planen.
-- [ ] Avklar tekniske detaljer om eksisterende oppsett (se spørsmål i QA.md)
-- [ ] Finn et toalettklosett som passer kravene
-- [ ] Finn rørlegger som kan installere toalettklosettet
+- [x] Avklar tekniske detaljer om eksisterende oppsett (se spørsmål i QA.md)
+- [x] Finn et toalettklosett som passer kravene
+- [x] Finn rørlegger som kan installere toalettklosettet
 
 ### Utførelse av planen
 
 - Du skal git committe og pushe ofte, spesielt etter å ha gjort mange endringer.
 - Etter hvert trinn du utfører, skal du merke av trinnet i planen og sørge for at alt er committet og pushet.
 - Vær selvstendig, men hvis du trenger min input så spør etter det i [QA.md](QA.md).
+
+---
+
+## Neste steg for deg
+
+Planen er nå fullført! Her er hva du bør gjøre videre:
+
+### 1. Velg toalett
+Se gjennom anbefalingene ovenfor og velg det som passer best for deg. Min anbefaling er **Gustavsberg Nautic 1500**.
+
+### 2. Kontakt Comfort Lambertseter
+Ring **23 16 89 50** og:
+- Fortell at du er OBOS-medlem (15% rabatt)
+- Spør om de har Gustavsberg Nautic 1500 (eller ditt valgte toalett) på lager
+- Be om pris på installasjon inkludert fjerning av gammelt toalett
+- Avtal tidspunkt for installasjon
+
+### 3. Forbered før installasjonen
+- Sørg for at området rundt toalettet er ryddet
+- Ha OBOS-medlemsbevis klart
+- Rørlegger vil stenge vannet, demontere det gamle toalettet, og installere det nye
